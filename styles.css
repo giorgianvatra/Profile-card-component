@@ -27,7 +27,7 @@ Dark gray: hsl(0, 0%, 59%)
 }
 
 body{
-    background: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg), hsl(185, 75%, 39%);
+    background: url(bg-pattern-top.svg), url(bg-pattern-bottom.svg), hsl(185, 75%, 39%);
     background-repeat: no-repeat;
     font-family: 'Kumbh Sans', sans-serif; 
     background-position: left -0% bottom 35rem , right -15% top 35rem;
@@ -52,7 +52,7 @@ body{
 .banner{ 
     min-width: 100%; 
     min-height: 9rem;
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(bg-pattern-card.svg);
 }
 
 .container img{ 
